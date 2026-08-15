@@ -1,0 +1,35 @@
+[window]
+opacity=0.88
+[window.padding]
+y = 6 
+x = 6  
+
+[font]
+normal = { family = "JetBrainsMono", style = "ExtraLight" }
+size = 18
+
+
+[colors.primary]
+background = '#1a1125'  # Deep dark purple
+foreground = '#f3eef7'  # Soft bright white with a purple undertone
+
+[colors.normal]
+black   = '#2c1e3b'
+red     = '#7d56a3'     # Muted deep purple/magenta (used for syntax errors/accents)
+green   = '#9b7ebb'     # Medium soft purple
+yellow  = '#b39bc9'     # Light dusty purple
+blue    = '#c7b7d7'     # Pale lavender
+magenta = '#d9cfe3'     # Very light orchid
+cyan    = '#e4dbe9'     # Whispering light purple-white
+white   = '#f3eef7'     # Clean white
+
+[colors.bright]
+black   = '#4a3563'     # Brightened dark purple (for gray/comments)
+red     = '#9b7ebb'
+green   = '#b39bc9'
+yellow  = '#c7b7d7'
+blue    = '#d9cfe3'
+magenta = '#e4dbe9'
+cyan    = '#f3dfec'
+white   = '#ffffff'     # Pure bright white
+

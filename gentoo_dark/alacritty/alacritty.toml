@@ -1,0 +1,34 @@
+[window]
+opacity=0.95
+[window.padding]
+y = 6 
+x = 6  
+
+[font]
+normal = { family = "JetBrainsMono", style = "ExtraLight" }
+size = 18
+
+
+[colors.primary]
+background = "#080711"
+foreground = "#9c8ef7"
+
+[colors.normal]
+black = "#080711"
+red = "#4b357a"
+green = "#6e5ac2"
+yellow = "#9c8ef7"
+blue = "#1c1a2e"
+magenta = "#4b357a"
+cyan = "#6e5ac2"
+white = "#9c8ef7"
+
+[colors.bright]
+black = "#1c1a2e"
+red = "#4b357a"
+green = "#6e5ac2"
+yellow = "#9c8ef7"
+blue = "#1c1a2e"
+magenta = "#6e5ac2"
+cyan = "#9c8ef7"
+white = "#9c8ef7"
