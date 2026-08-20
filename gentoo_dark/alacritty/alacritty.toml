@@ -1,12 +1,12 @@
 [window]
-opacity=0.95
+opacity=0.88
 [window.padding]
 y = 6 
 x = 6  
 
 [font]
-normal = { family = "JetBrainsMono", style = "ExtraLight" }
-size = 18
+normal = { family = "JetBrainsMono", style = "SemiThin" }
+size = 14
 
 
 [colors.primary]
